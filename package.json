@@ -1,19 +1,19 @@
 {
-  "name": "nodebb-plugin-reddcoin",
-  "version": "0.1.5",
-  "description": "Reddcoin Tipping Plugin",
+  "name": "nodebb-plugin-feathercoin",
+  "version": "0.1.1",
+  "description": "Feathercoin Tipping Plugin",
   "main": "library.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/reddink/nodebb-plugin-reddcoin"
+    "url": "https://github.com/wellenreiter01/nodebb-plugin-feathercoin"
   },
   "keywords": [
     "nodebb",
     "plugin",
-    "reddcoin",
+    "feathercoin",
     "tipping",
     "micro",
     "transactions",
@@ -23,13 +23,13 @@
     "cryptocurrency",
     "currency"
   ],
-  "author": "reddink <redd@redd.ink>",
+  "author": "wellenreiter <wellenreiter@feathercoin.com>",
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/reddink/nodebb-plugin-reddcoin/issues"
+    "url": "https://github.com/wellenreiter01/nodebb-plugin-feathercoin/issues"
   },
   "nbbpm": {
     "compatibility": "^0.6.0 || ^0.7.0 || ^0.8.0 || ^0.9.0 || ^1.0.0"
   },
-  "homepage": "https://github.com/reddink/nodebb-plugin-reddcoin"
+  "homepage": "https://github.com/wellenreiter01/nodebb-plugin-feathercoin"
 }

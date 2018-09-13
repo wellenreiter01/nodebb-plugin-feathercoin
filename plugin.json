@@ -1,7 +1,7 @@
 {
-	"id": "nodebb-plugin-reddcoin",
-	"name": "Reddcoin",
-	"description": "Reddcoin Tipping Plugin.",
+	"id": "nodebb-plugin-feathercoin",
+	"name": "Featheroin",
+	"description": "Featheroin Tipping Plugin.",
 	"url": "https://github.com/reddink/nodebb-plugin-reddcoin",
 	"library": "./library.js",
 	"staticDirs": {
@@ -12,7 +12,7 @@
 		"./styles/style.less"
 		],
 	"scripts": [
-		"http://live.reddcoin.com:80/socket.io/socket.io.js",
+		"http://explorerfeathercoin.com:80/socket.io/socket.io.js",
 		"./lib/main.js"
 		],
 	"templates": "./templates",
