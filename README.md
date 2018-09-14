@@ -37,3 +37,13 @@ Plugins
 
 Activate nodebb-plugin-feathercoin
 
+## Browser requirements
+
+### Windows
+
+Crome based browsers should work out of th box.
+For other browsers a network protocl handler must be added manually, to get the 'feathercoin:' protocol pointed to the feathercoin wallet.
+See broswer documentation for details how to do this.
+
+### Android
+Standard browser works without any modifications.
