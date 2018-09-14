@@ -2,7 +2,7 @@
 	"id": "nodebb-plugin-feathercoin",
 	"name": "Featheroin",
 	"description": "Featheroin Tipping Plugin.",
-	"url": "https://github.com/reddink/nodebb-plugin-reddcoin",
+	"url": "https://github.com/wellenreiter01/nodebb-plugin-feathercoin",
 	"library": "./library.js",
 	"staticDirs": {
 		"static": "./static",
@@ -33,7 +33,7 @@
 			"hook": "filter:user.profileLinks", "method": "addUserProfileLinks"
 		},
 		{
-			"hook": "filter:posts.custom_profile_info", "method": "addProfileInfo"
+            "hook": "filter:posts.custom_profile_info", "method": "addProfileInfo"
 		},
 		{
 			"hook": "filter:admin.header.build", "method": "addAdminNavigation"
