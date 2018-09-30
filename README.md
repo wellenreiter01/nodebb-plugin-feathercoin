@@ -14,6 +14,8 @@ Presently it uses the [BIP 21](https://github.com/bitcoin/bips/blob/master/bip-0
 
 This allows the transfer of any amount of Feathercoin directly using your wallet, rather than relying on a 'tipbot'
 
+Other wallets supporting [BIP 21](https://github.com/bitcoin/bips/blob/master/bip-0021.mediawiki) should work, too, but are 
+not tested.
 
 ## Installation
 
@@ -42,7 +44,7 @@ Activate nodebb-plugin-feathercoin
 ### Windows
 
 Crome based browsers should work out of th box.
-For other browsers a network protocl handler must be added manually, to get the 'feathercoin:' protocol pointed to the feathercoin wallet.
+For other browsers a network protocol handler must be added manually, to get the 'feathercoin:' protocol pointed to the feathercoin wallet.
 See broswer documentation for details how to do this.
 
 ### Android
