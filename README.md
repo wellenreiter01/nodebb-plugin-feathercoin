@@ -4,7 +4,7 @@ This repo serves as a staging ground for the nodebb feathercoin tipping plugin.
 
 ## Purpose
 
-The purpose of this plugin is to create an easy method for users of nodebb to be able to tip each other.
+The purpose of this plugin is to create an easy method for users of nodebb to tip each other.
 If you would like to see this in action, you can view at [Feathercoin Forum](https://forum.feahtercoin.com/)
 
 Presently it uses the [BIP 21](https://github.com/bitcoin/bips/blob/master/bip-0021.mediawiki) to launch one of the following wallets:
@@ -41,7 +41,7 @@ Activate nodebb-plugin-feathercoin
 
 ## Browser requirements
 
-### Windows
+### Windows/Linux
 
 Crome based browsers should work out of th box.
 For other browsers a network protocol handler must be added manually, to get the 'feathercoin:' protocol pointed to the feathercoin wallet.
